@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":22,
  "infinite":false,
  "layers":[
@@ -90,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/q5AZc0WqF0s"
+                 "value":"https:\/\/www.youtube.com\/embed\/uE4WdU7JCGs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -308,6 +315,24 @@
                         }]
                 }, 
                 {
+                 "id":208,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":209,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":217,
                  "properties":[
                         {
@@ -327,6 +352,24 @@
                 }, 
                 {
                  "id":220,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":224,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":225,
                  "properties":[
                         {
                          "name":"collides",
