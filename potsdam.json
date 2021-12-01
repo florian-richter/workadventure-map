@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/POT01-EG.json"
+                 "value":"POT01-EG.json"
                 }],
          "type":"tilelayer",
          "visible":true,

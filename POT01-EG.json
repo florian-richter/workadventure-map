@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/potsdam.json"
+                 "value":"potsdam.json"
                 }],
          "type":"tilelayer",
          "visible":true,
