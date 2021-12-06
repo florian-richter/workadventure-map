@@ -27,7 +27,7 @@
                  "value":"POT01-EG.json#stairs"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
